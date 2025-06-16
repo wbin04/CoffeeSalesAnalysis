@@ -5,3 +5,5 @@ iframe_figures/
 spark-warehouse/
 
 .env
+
+mongodb_coffee_data_visualization.ipynb
